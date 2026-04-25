@@ -4,7 +4,7 @@
 
 # 📚 Smart Study Group Finder
 
-This is a  Django-based web application that helps students find and join study groups tailored to their interests, preferences, and subjects. Think of it as a smart matchmaking platform for collaborative learning.
+This is a  Django-based web application that helps students find and join study groups tailored to their interests, preferences, and subjects. Think of it as a smart matchmaking platform intented for a collaborative learning.
 
 ---
 
